@@ -1,8 +1,5 @@
 <h4 align="right"> 
-<span href=".README.md">English</span> 
-<a href="https://ppofficial.netlify.app/zh/" 
-style="margin: 0 10px;" >简体中文</a> 
-<a href="https://github.com/Sjj1024/PakePlus/discussions/108">日本语</a>
+
 </h4>  
 <p align="center">
     <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/pakeplus.png" width=138/>
@@ -19,8 +16,7 @@ style="margin: 0 10px;" >简体中文</a>
     <a href="https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=d148f8fac78b45fe9b94c82757c3f86b&claim_uid=LXfeQOxRDEmSUGC&theme=small" alt="Featured｜HelloGitHub"></a>
 </p>
 
-<div align="left">PakePlus supports Mac, Windows, Linux, and Android & iOS. There’s no need to install complex dependencies locally, PakePlus is only about 10MB in size. For the latest version, please see the <a href="[#popular-packages](https://github.com/Sjj1024/PakePlus/releases)">release page</a>. or visit: <a href="https://pakeplus.pages.dev" target="_blank">PakePlus Web</a>. 
-Document: <a href="https://pakeplus.com/guide/" target="_blank">PakePlus Guide</a></div>
+
 
 https://github.com/user-attachments/assets/b88bf541-0b26-4020-9eec-da79e1734fc9
 
@@ -177,19 +173,7 @@ pnpm run build
 
 All work is conducted openly on GitHub. Whether you are a core team member or an external contributor, all Pull Requests must go through the same review process.
 
-## Support
 
-1. wechat and group，my wechat is lanxingme，welcome to join the wechat group.
- <p align="center" style="display:flex; justify-content: flex-start;" >
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/mywx.png" width=200/>
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/wxcode.png" width=200/>
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/qqpp3.jpg" width=200/>
- </p>
-
-2. 💖If PakePlus has brought joy to your life, feel free to support it.
- <p align="center" style="display:flex; justify-content: flex-start;">
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/sponsor.webp" width=620/>
- </p>
 
 ## Star History
 
